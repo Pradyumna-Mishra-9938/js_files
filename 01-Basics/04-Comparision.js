@@ -1,0 +1,27 @@
+//NUMBER COMPARISION
+// console.log(2 > 1); //true
+// console.log(2 >= 1); //true
+// console.log(2 < 1); //false
+// console.log(2 == 1); //false
+// console.log(2 != 1); //true
+
+// STRING COMPARISION
+// console.log("a" > 1); //false
+// console.log("02" > 1);  //true
+
+//NULL COMPARISION
+// console.log(null < 0); //false
+// console.log(null == 0); //false
+// console.log(null >= 0); //true   //(null is treated as 0 for greater than or equal to)
+
+// UNDEFINED COMPARISION
+// console.log(undefined == 0);
+// console.log(undefined > 0);
+// console.log(undefined < 0);
+
+// ===
+console.log("2" == 2); //true
+console.log("2" === 2); //false
+
+//== {checks the value}
+//=== {checks both value and datatype}
